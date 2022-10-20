@@ -49,16 +49,16 @@ $date   = '2022';
 					<table  id="declaration-list"  class="table">
 						<thead>
 						<tr>
-							<th>id</th>
-							<th>Статус</th>
-							<th>Номер</th>
-							<th>Дата регистрации</th>
-							<th>Дата окончания действия</th>
-							<th>Наименование продукции</th>
-							<th>Заявитель</th>
-							<th>Изготовитель</th>
-							<th>Происхождение продукции</th>
-							<th>Тип объекта декларирования</th>
+							<th data-field="id">id</th>
+							<th data-field="statusName">Статус</th>
+							<th data-field="number">Номер</th>
+							<th data-field="registrationDate">Дата регистрации</th>
+							<th data-field="endDate">Дата окончания действия</th>
+							<th data-field="productName">Наименование продукции</th>
+							<th data-field="applicantName">Заявитель</th>
+							<th data-field="manufacterName">Изготовитель</th>
+							<th data-field="productOrigin">Происхождение продукции</th>
+							<th data-field="objectType">Тип объекта декларирования</th>
 						</tr>
 						</thead>
 						<tbody>
