@@ -20,5 +20,7 @@ composer.phar
 
 # app
 .htpasswd
+/log/*
 /public_html/robots.txt
 /public_html/.htaccess
+composer.lock
