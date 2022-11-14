@@ -22,6 +22,8 @@ $date   = '2022';
 </head>
 <body class="d-flex flex-column h-100 bg-light">
 <main class="flex-shrink-0">
+
+
     <div class="container">
         <h1 class="my-4"><?= $title ?></h1>
         <div class="alert alert-info my-4">
@@ -98,6 +100,7 @@ $date   = '2022';
             </div>
         </section>
     </div>
+
 </main>
 <footer class="footer mt-auto py-3 bg-dark">
     <div class="container">
